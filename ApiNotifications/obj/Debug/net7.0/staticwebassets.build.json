@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Vz6JqrRHUkxwlG7py3YbpX2xmYl8cRUcAjz8lVHfKDA=",
+  "Source": "ApiNotifications",
+  "BasePath": "_content/ApiNotifications",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
