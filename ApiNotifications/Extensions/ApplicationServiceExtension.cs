@@ -22,21 +22,25 @@ public static class ApplicationServiceExtension
     {
         services.AddMemoryCache();
         services.AddSingleton<IRateLimitConfiguration, RateLimitConfiguration>();
-        services. AddInMemoryRateLimiting();
+        services.AddInMemoryRateLimiting();
+
         services.Configure<IpRateLimitOptions>(options =>
         {
             options.EnableEndpointRateLimiting = true;
             options.StackBlockedRequests = false;
             options.HttpStatusCode = 429;
             options.RealIpHeader = "X-Real-IP";
+            options.ClientWhitelist = new List<string>();
+
             options.GeneralRules = new List<RateLimitRule>
             {
-                new RateLimitRule
-                {
-                    Endpoint = "*",
-                    Period = "10s",
-                    Limit = 2
-                }
+                    new RateLimitRule
+                    {
+                        Endpoint = "*",
+                        Period = "10s",
+                        Limit = 2
+                    }
+                    // Puedes agregar más reglas personalizadas aquí
             };
         });
     }
