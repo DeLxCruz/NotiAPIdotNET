@@ -11,5 +11,5 @@ public class TipoNotificaciones : BaseEntity
     public string NombreTipo { get; set; }
 
     public ICollection<ModuloNotificaciones> ModuloNotificaciones { get; set; }
-    public ICollection<TipoNotificaciones> TipoNotificacion { get; set; }
+    public ICollection<BlockChain> BlockChains { get; set; }
 }

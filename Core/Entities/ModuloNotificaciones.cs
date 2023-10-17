@@ -15,7 +15,7 @@ public class ModuloNotificaciones : BaseEntity
     public TipoNotificaciones TipoNotificaciones { get; set; }
 
     [Required]
-    public long IDRadicado { get; set; }
+    public long IdRadicado { get; set; }
     public Radicados Radicados { get; set; }
 
     [Required]
