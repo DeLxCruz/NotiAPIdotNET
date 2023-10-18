@@ -48,7 +48,7 @@ public class GenericRepository<T> : IGenericRepository<T> where T : BaseEntity
         return (totalRegistros, registros);
     }
 
-    public virtual async Task<T> GetByIdAsync(int id)
+    public virtual async Task<T> GetByIdAsync(long id)
     {
         return await _context.Set<T>().FindAsync(id);
     }

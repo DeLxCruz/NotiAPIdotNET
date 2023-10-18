@@ -2854,19 +2854,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DeLaCruz\\.nuget\\packages\\": {}
+    "C:\\Users\\abcd\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DeLaCruz\\Documents\\CAMPUS\\dotNET\\NotiAPIdotNET\\ApiNotifications\\ApiNotifications.csproj",
+      "projectUniqueName": "C:\\Users\\abcd\\Documents\\DeLxCruz\\.NET\\NotiAPIdotNET\\ApiNotifications\\ApiNotifications.csproj",
       "projectName": "ApiNotifications",
-      "projectPath": "C:\\Users\\DeLaCruz\\Documents\\CAMPUS\\dotNET\\NotiAPIdotNET\\ApiNotifications\\ApiNotifications.csproj",
-      "packagesPath": "C:\\Users\\DeLaCruz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DeLaCruz\\Documents\\CAMPUS\\dotNET\\NotiAPIdotNET\\ApiNotifications\\obj\\",
+      "projectPath": "C:\\Users\\abcd\\Documents\\DeLxCruz\\.NET\\NotiAPIdotNET\\ApiNotifications\\ApiNotifications.csproj",
+      "packagesPath": "C:\\Users\\abcd\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\abcd\\Documents\\DeLxCruz\\.NET\\NotiAPIdotNET\\ApiNotifications\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DeLaCruz\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\abcd\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -2878,8 +2878,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\DeLaCruz\\Documents\\CAMPUS\\dotNET\\NotiAPIdotNET\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\DeLaCruz\\Documents\\CAMPUS\\dotNET\\NotiAPIdotNET\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\abcd\\Documents\\DeLxCruz\\.NET\\NotiAPIdotNET\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\abcd\\Documents\\DeLxCruz\\.NET\\NotiAPIdotNET\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

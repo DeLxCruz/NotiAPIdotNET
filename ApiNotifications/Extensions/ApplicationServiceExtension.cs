@@ -47,7 +47,6 @@ public static class ApplicationServiceExtension
                         Period = "10s",
                         Limit = 2
                     }
-                    // Puedes agregar más reglas personalizadas aquí
             };
         });
     }

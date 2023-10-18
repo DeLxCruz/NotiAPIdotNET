@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\DeLaCruz\\.nuget\\packages\\": {}
+    "C:\\Users\\abcd\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DeLaCruz\\Documents\\CAMPUS\\dotNET\\NotiAPIdotNET\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\abcd\\Documents\\DeLxCruz\\.NET\\NotiAPIdotNET\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\DeLaCruz\\Documents\\CAMPUS\\dotNET\\NotiAPIdotNET\\Core\\Core.csproj",
-      "packagesPath": "C:\\Users\\DeLaCruz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DeLaCruz\\Documents\\CAMPUS\\dotNET\\NotiAPIdotNET\\Core\\obj\\",
+      "projectPath": "C:\\Users\\abcd\\Documents\\DeLxCruz\\.NET\\NotiAPIdotNET\\Core\\Core.csproj",
+      "packagesPath": "C:\\Users\\abcd\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\abcd\\Documents\\DeLxCruz\\.NET\\NotiAPIdotNET\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DeLaCruz\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\abcd\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"

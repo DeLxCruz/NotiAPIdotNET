@@ -65,3 +65,13 @@ C:\Users\DeLaCruz\Documents\CAMPUS\dotNET\NotiAPIdotNET\ApiNotifications\obj\Deb
 C:\Users\DeLaCruz\Documents\CAMPUS\dotNET\NotiAPIdotNET\ApiNotifications\obj\Debug\net7.0\ApiNotifications.pdb
 C:\Users\DeLaCruz\Documents\CAMPUS\dotNET\NotiAPIdotNET\ApiNotifications\obj\Debug\net7.0\ApiNotifications.genruntimeconfig.cache
 C:\Users\DeLaCruz\Documents\CAMPUS\dotNET\NotiAPIdotNET\ApiNotifications\obj\Debug\net7.0\ref\ApiNotifications.dll
+C:\Users\abcd\Documents\DeLxCruz\.NET\NotiAPIdotNET\ApiNotifications\obj\Debug\net7.0\ApiNotifications.csproj.AssemblyReference.cache
+C:\Users\abcd\Documents\DeLxCruz\.NET\NotiAPIdotNET\ApiNotifications\obj\Debug\net7.0\ApiNotifications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abcd\Documents\DeLxCruz\.NET\NotiAPIdotNET\ApiNotifications\obj\Debug\net7.0\ApiNotifications.AssemblyInfoInputs.cache
+C:\Users\abcd\Documents\DeLxCruz\.NET\NotiAPIdotNET\ApiNotifications\obj\Debug\net7.0\ApiNotifications.AssemblyInfo.cs
+C:\Users\abcd\Documents\DeLxCruz\.NET\NotiAPIdotNET\ApiNotifications\obj\Debug\net7.0\ApiNotifications.csproj.CoreCompileInputs.cache
+C:\Users\abcd\Documents\DeLxCruz\.NET\NotiAPIdotNET\ApiNotifications\obj\Debug\net7.0\ApiNotifications.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\abcd\Documents\DeLxCruz\.NET\NotiAPIdotNET\ApiNotifications\obj\Debug\net7.0\ApiNotifications.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abcd\Documents\DeLxCruz\.NET\NotiAPIdotNET\ApiNotifications\obj\Debug\net7.0\ApiNotifications.dll
+C:\Users\abcd\Documents\DeLxCruz\.NET\NotiAPIdotNET\ApiNotifications\obj\Debug\net7.0\refint\ApiNotifications.dll
+C:\Users\abcd\Documents\DeLxCruz\.NET\NotiAPIdotNET\ApiNotifications\obj\Debug\net7.0\ApiNotifications.pdb
