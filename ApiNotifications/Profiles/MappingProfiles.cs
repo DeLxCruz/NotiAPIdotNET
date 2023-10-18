@@ -12,9 +12,11 @@ public class MappingProfiles : Profile
     public MappingProfiles()
     {
         CreateMap<Auditoria, AuditoriaDTO>().ReverseMap();
+        CreateMap<BlockChain, BlockChainDTO>().ReverseMap();
         CreateMap<EstadoNotificacion, EstadoNotificacionDTO>().ReverseMap();
         CreateMap<Formatos, FormatosDTO>().ReverseMap();
         CreateMap<HiloRespuestaNotificacion, HiloRespuestaNotificacionDTO>().ReverseMap();
+        CreateMap<ModuloNotificaciones, ModuloNotificacionesDTO>().ReverseMap();
         CreateMap<ModulosMaestros, ModulosMaestrosDTO>().ReverseMap();
         CreateMap<PermisosGenericos, PermisosGenericosDTO>().ReverseMap();
         CreateMap<Radicados, RadicadosDTO>().ReverseMap();
