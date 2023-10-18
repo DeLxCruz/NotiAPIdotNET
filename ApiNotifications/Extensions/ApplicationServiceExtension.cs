@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using AspNetCoreRateLimit;
+using Core.Interfaces;
+using Infrastructure.UnitOfWork;
 using Microsoft.Extensions.Options;
 
 namespace ApiNotifications.Extensions;
@@ -17,6 +19,11 @@ public static class ApplicationServiceExtension
                             .AllowAnyHeader()
         );
     });
+
+    public static void AddApplicationServices(this IServiceCollection services)
+    {
+        services.AddScoped<IUnitOfWork, UnitOfWork>();
+    }
 
     public static void ConfigureRateLimiting(this IServiceCollection services)
     {

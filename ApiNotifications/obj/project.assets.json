@@ -2854,19 +2854,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\APM02-36\\.nuget\\packages\\": {}
+    "C:\\Users\\DeLaCruz\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\APM02-36\\Documents\\cs\\.NET\\NotiAPIdotNET\\ApiNotifications\\ApiNotifications.csproj",
+      "projectUniqueName": "C:\\Users\\DeLaCruz\\Documents\\CAMPUS\\dotNET\\NotiAPIdotNET\\ApiNotifications\\ApiNotifications.csproj",
       "projectName": "ApiNotifications",
-      "projectPath": "C:\\Users\\APM02-36\\Documents\\cs\\.NET\\NotiAPIdotNET\\ApiNotifications\\ApiNotifications.csproj",
-      "packagesPath": "C:\\Users\\APM02-36\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\APM02-36\\Documents\\cs\\.NET\\NotiAPIdotNET\\ApiNotifications\\obj\\",
+      "projectPath": "C:\\Users\\DeLaCruz\\Documents\\CAMPUS\\dotNET\\NotiAPIdotNET\\ApiNotifications\\ApiNotifications.csproj",
+      "packagesPath": "C:\\Users\\DeLaCruz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DeLaCruz\\Documents\\CAMPUS\\dotNET\\NotiAPIdotNET\\ApiNotifications\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\APM02-36\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\DeLaCruz\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -2878,8 +2878,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\APM02-36\\Documents\\cs\\.NET\\NotiAPIdotNET\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\APM02-36\\Documents\\cs\\.NET\\NotiAPIdotNET\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\DeLaCruz\\Documents\\CAMPUS\\dotNET\\NotiAPIdotNET\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\DeLaCruz\\Documents\\CAMPUS\\dotNET\\NotiAPIdotNET\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
@@ -2956,7 +2956,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

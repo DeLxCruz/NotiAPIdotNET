@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\APM02-36\\.nuget\\packages\\": {}
+    "C:\\Users\\DeLaCruz\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\APM02-36\\Documents\\cs\\.NET\\NotiAPIdotNET\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\DeLaCruz\\Documents\\CAMPUS\\dotNET\\NotiAPIdotNET\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\APM02-36\\Documents\\cs\\.NET\\NotiAPIdotNET\\Core\\Core.csproj",
-      "packagesPath": "C:\\Users\\APM02-36\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\APM02-36\\Documents\\cs\\.NET\\NotiAPIdotNET\\Core\\obj\\",
+      "projectPath": "C:\\Users\\DeLaCruz\\Documents\\CAMPUS\\dotNET\\NotiAPIdotNET\\Core\\Core.csproj",
+      "packagesPath": "C:\\Users\\DeLaCruz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DeLaCruz\\Documents\\CAMPUS\\dotNET\\NotiAPIdotNET\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\APM02-36\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\DeLaCruz\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
