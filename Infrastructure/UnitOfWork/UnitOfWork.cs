@@ -55,6 +55,160 @@ namespace Infrastructure.UnitOfWork
             }
         }
 
+        public IEstadoNotificacion EstadoNotificaciones
+        {
+            get{
+                if (_estadoNotificaciones == null)
+                {
+                    _estadoNotificaciones = new EstadoNotificacionRepository(_context);
+                }
+                return _estadoNotificaciones;
+            }
+        }
+
+        public IFormatos Formatos
+        {
+            get{
+                if (_formatos == null)
+                {
+                    _formatos = new FormatosRepository(_context);
+                }
+                return _formatos;
+            }
+        }
+
+        public IGenericosVsSubModulos GenericosVsSubModulos
+        {
+            get{
+                if (_genericosVsSubModulos == null)
+                {
+                    _genericosVsSubModulos = new GenericosVsSubmodulosRepository(_context);
+                }
+                return _genericosVsSubModulos;
+            }
+        }
+
+        public IHiloRespuestaNotificacion HiloRespuestaNotificaciones
+        {
+            get{
+                if (_hiloRespuestaNotificaciones == null)
+                {
+                    _hiloRespuestaNotificaciones = new HiloRespuestaNotificacionRepository(_context);
+                }
+                return _hiloRespuestaNotificaciones;
+            }
+        }
+
+        public IMaestrosVsSubmodulos MaestrosVsSubmodulos
+        {
+            get{
+                if (_maestrosVsSubmodulos == null)
+                {
+                    _maestrosVsSubmodulos = new MaestrosVsSubmodulosRepository(_context);
+                }
+                return _maestrosVsSubmodulos;
+            }
+        }
+
+        public IModuloNotificaciones ModuloNotificaciones
+        {
+            get{
+                if (_moduloNotificaciones == null)
+                {
+                    _moduloNotificaciones = new ModuloNotificacionesRepository(_context);
+                }
+                return _moduloNotificaciones;
+            }
+        }
+
+        public IModulosMaestros ModulosMaestros
+        {
+            get{
+                if (_modulosMaestros == null)
+                {
+                    _modulosMaestros = new ModulosMaestrosRepository(_context);
+                }
+                return _modulosMaestros;
+            }
+        }
+
+        public IPermisosGenericos PermisosGenericos
+        {
+            get{
+                if (_permisosGenericos == null)
+                {
+                    _permisosGenericos = new PermisosGenericosRepository(_context);
+                }
+                return _permisosGenericos;
+            }
+        }
+
+        public IRadicados Radicados
+        {
+            get{
+                if (_radicados == null)
+                {
+                    _radicados = new RadicadosRepository(_context);
+                }
+                return _radicados;
+            }
+        }
+
+        public IRol Roles
+        {
+            get{
+                if (_roles == null)
+                {
+                    _roles = new RolRepository(_context);
+                }
+                return _roles;
+            }
+        }
+
+        public IRolVsMaestro RolVsMaestros
+        {
+            get{
+                if (_rolVsMaestros == null)
+                {
+                    _rolVsMaestros = new RolVsMaestroRepository(_context);
+                }
+                return _rolVsMaestros;
+            }
+        }
+
+        public ISubModulos SubModulos
+        {
+            get{
+                if (_subModulos == null)
+                {
+                    _subModulos = new SubModulosRepository(_context);
+                }
+                return _subModulos;
+            }
+        }
+
+        public ITipoNotificaciones TipoNotificaciones
+        {
+            get{
+                if (_tipoNotificaciones == null)
+                {
+                    _tipoNotificaciones = new TipoNotificacionesRepository(_context);
+                }
+                return _tipoNotificaciones;
+            }
+        }
+
+        public ITipoRequerimiento TipoRequerimientos
+        {
+            get{
+                if (_tipoRequerimientos == null)
+                {
+                    _tipoRequerimientos = new TipoRequerimientoRepository(_context);
+                }
+                return _tipoRequerimientos;
+            }
+        }
+
         public void Dispose()
         {
             _context.Dispose();
